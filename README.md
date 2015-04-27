@@ -1,3 +1,4 @@
 # BingWallpaper
 Sets the bing background image as the machine's wallpaper.
-To install necessary software run setup.py
+To install necessary software run setup.py.
+This works only with linux.
